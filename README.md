@@ -5,7 +5,7 @@ Life expectancy at birth is a key metric reflecting the average number of years 
 This dataset comprises historical information encompassing various indicators concerning Life Expectancy at Birth on a global scale. The dataset prominently features: ISO3, Country, Continent, Hemisphere, Human Development Groups, UNDP Developing Regions, HDI Rank (2021), and Life Expectancy at Birth from 1990 to 2021.
 
 # Analysis Criteria
-- EDA on Python Notebook using Pandas, Seaborn, plotly and Matplotlib
+- EDA on Python Notebook using Pandas, Seaborn, Plotly and Matplotlib
 - Conducted minor Data Wrangling, did time series analysis, hist plot, area charts and pie charts etc.
 - Visualization has been done on both on Python and Power BI which answers the key questions as well
 
