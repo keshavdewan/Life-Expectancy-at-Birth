@@ -30,4 +30,4 @@ This dataset comprises historical information encompassing various indicators co
 
 -[Kaggle Data & Inspiration](https://www.kaggle.com/datasets/iamsouravbanerjee/life-expectancy-at-birth-across-the-globe)
 
--[Power BI Dashboard](https://app.powerbi.com/reportEmbed?reportId=655c6b15-078f-4e98-9410-b19e7c6f63d9&autoAuth=true&ctid=d5b7f36a-0259-433e-ba3d-6f3f711d03bc)
+-[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmU1OWZmYjMtYjg5Zi00MzljLWFiYWItZDAzNGNjYWIxZGJjIiwidCI6ImQ1YjdmMzZhLTAyNTktNDMzZS1iYTNkLTZmM2Y3MTFkMDNiYyIsImMiOjh9)
